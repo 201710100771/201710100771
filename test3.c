@@ -13,3 +13,5 @@
  else
  printf("travel by bus\n");
 }
+//choice
+print("the choice");
